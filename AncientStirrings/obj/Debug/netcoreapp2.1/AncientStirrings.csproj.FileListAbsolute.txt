@@ -1,0 +1,11 @@
+C:\Users\MaxM\Source\Repos\AncientStirrings\AncientStirrings\obj\Debug\netcoreapp2.1\AncientStirrings.csprojAssemblyReference.cache
+C:\Users\MaxM\Source\Repos\AncientStirrings\AncientStirrings\obj\Debug\netcoreapp2.1\AncientStirrings.csproj.CoreCompileInputs.cache
+C:\Users\MaxM\Source\Repos\AncientStirrings\AncientStirrings\obj\Debug\netcoreapp2.1\AncientStirrings.AssemblyInfoInputs.cache
+C:\Users\MaxM\Source\Repos\AncientStirrings\AncientStirrings\obj\Debug\netcoreapp2.1\AncientStirrings.AssemblyInfo.cs
+C:\Users\MaxM\Source\Repos\AncientStirrings\AncientStirrings\bin\Debug\netcoreapp2.1\AncientStirrings.deps.json
+C:\Users\MaxM\Source\Repos\AncientStirrings\AncientStirrings\bin\Debug\netcoreapp2.1\AncientStirrings.runtimeconfig.json
+C:\Users\MaxM\Source\Repos\AncientStirrings\AncientStirrings\bin\Debug\netcoreapp2.1\AncientStirrings.runtimeconfig.dev.json
+C:\Users\MaxM\Source\Repos\AncientStirrings\AncientStirrings\bin\Debug\netcoreapp2.1\AncientStirrings.dll
+C:\Users\MaxM\Source\Repos\AncientStirrings\AncientStirrings\bin\Debug\netcoreapp2.1\AncientStirrings.pdb
+C:\Users\MaxM\Source\Repos\AncientStirrings\AncientStirrings\obj\Debug\netcoreapp2.1\AncientStirrings.dll
+C:\Users\MaxM\Source\Repos\AncientStirrings\AncientStirrings\obj\Debug\netcoreapp2.1\AncientStirrings.pdb
